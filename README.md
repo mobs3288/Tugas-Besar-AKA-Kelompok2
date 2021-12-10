@@ -6,7 +6,9 @@ Anggota : Ryan Oktaviandi Susilo Wibowo   1301204289
           Raihan Atsal Hafizh             1301204485
     
 Insertion Sort dan Bubble Sort
+
 ///////////////////////////////
+
 Apabila Program tidak jalan Coba install ffmepg terlebih dahulu.
 
 https://ffmpeg.org/download.html
